@@ -1,17 +1,14 @@
 {
   "name": "@pplgin/pplgin-fy",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Free Google Translate",
   "main": "bin/fy.js",
   "bin": {
-    "pplgin-fy": "fy.js"
+    "biz": "bin/fy.js"
   },
   "dependencies": {
     "chalk": "^2.4.2",
     "ora": "^3.1.0"
-  },
-  "bin": {
-    "biz": "bin/fy.js"
   },
   "devDependencies": {},
   "scripts": {
