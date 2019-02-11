@@ -1,6 +1,6 @@
 {
-  "name": "@pplgin/pplgin-fy",
-  "version": "1.0.1",
+  "name": "@pplgin/fy",
+  "version": "1.0.0",
   "description": "Free Google Translate",
   "main": "bin/fy.js",
   "bin": {
