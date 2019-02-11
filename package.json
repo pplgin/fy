@@ -4,7 +4,7 @@
   "description": "Free Google Translate",
   "main": "bin/fy.js",
   "bin": {
-    "biz": "bin/fy.js"
+    "fy": "bin/fy.js"
   },
   "dependencies": {
     "chalk": "^2.4.2",
